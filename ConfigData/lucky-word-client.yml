@@ -2,4 +2,4 @@
 wordConfig:
   preamble: The lucky word is
   luckyWord: Romanian
-  fullStatement: Please show up on the client side, my full statement!!
+  fullStatement: Please show up on the client side, my changed statement!!
